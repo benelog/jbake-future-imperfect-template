@@ -6,8 +6,8 @@
     <atom:link href="https://blog.benelog.net//feed.xml" rel="self" type="application/rss+xml" />
     <description>JBake Bootstrap Template</description>
     <language>en-gb</language>
-    <pubDate>Fri, 13 Dec 2019 02:34:31 +0000</pubDate>
-    <lastBuildDate>Fri, 13 Dec 2019 02:34:31 +0000</lastBuildDate>
+    <pubDate>Sat, 14 Dec 2019 10:15:06 +0000</pubDate>
+    <lastBuildDate>Sat, 14 Dec 2019 10:15:06 +0000</lastBuildDate>
 
     <item>
       <title>ktlint로 Kotlin 공식 코딩 컨벤션 맞추기</title>
@@ -11713,7 +11713,7 @@ public class JDBCTest {
 &lt;p&gt;Spring Batch와 Spring WS, Spring Integration은 얽히고 섥힌 관계라고 보입니다. Spring integration의 Web Service Adapters에서 Spring Web Service를 사용하고 있고, Spring batch에서도 XML파일 처리에 Spring WS의 일부인 &lt;a href=&quot;http://static.springframework.org/spring-ws/site/reference/html/oxm.html&quot;&gt;Spring OXM&lt;/a&gt;를 통한 위임처리를 할 수 있습니다. 그리고 위와 같이 Spring integration는 Spring Batch도 연결시켰군요.&lt;/p&gt;
 &lt;/div&gt;
 &lt;div class=&quot;paragraph&quot;&gt;
-&lt;p&gt;Spring Batch의 Job은 Spring Application Flatform을 통해서 OSGi 번들로도  실행가능하게 되었습니다.&lt;/p&gt;
+&lt;p&gt;Spring Batch의 Job은 Spring Application Platform 통해서 OSGi 번들로도  실행가능하게 되었습니다.&lt;/p&gt;
 &lt;/div&gt;
 &lt;div class=&quot;ulist&quot;&gt;
 &lt;ul&gt;
@@ -11726,7 +11726,7 @@ public class JDBCTest {
 &lt;p&gt;향후 버전에서는 더욱 더 배치에 특화된 기능들이 추가될 것이라고 하네요.&lt;/p&gt;
 &lt;/div&gt;
 &lt;div class=&quot;paragraph&quot;&gt;
-&lt;p&gt;Spring batch + Spring Integration + Spring WS + Spring Application Flatform.. 그 미래가 어떻게 될지 정말 기대가 됩니다.&lt;/p&gt;
+&lt;p&gt;Spring batch + Spring Integration + Spring WS + Spring Application Platform.. 그 미래가 어떻게 될지 정말 기대가 됩니다.&lt;/p&gt;
 &lt;/div&gt;
 	</description>
     </item>
